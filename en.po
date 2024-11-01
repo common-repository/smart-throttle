@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Throttle Wordpress plugin\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2009-01-28 14:23+0530\n"
+"Last-Translator: S H Mohanjith <moha@mohanjith.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "Tier 1"
+msgstr "Tier 1"
+
+msgid "Tier 2"
+msgstr "Tier 3"
+
+msgid "Tier 3"
+msgstr "Tier 3"
+
+msgid "Time out:"
+msgstr "Time out:"
+
+msgid "Comment rate >:"
+msgstr "Comment rate >:"
+
+msgid "Comment rate <:"
+msgstr "Comment rate <:"
+
+msgid "Do not edit unless you know what you are doing. We believe our time out break down is well balanced ;)"
+msgstr "Do not edit unless you know what you are doing. We believe our time out break down is well balanced ;)"
+
+msgid "Time out (in seconds):"
+msgstr "Time out (in seconds):"
+
+msgid "Increment by"
+msgstr "Increment by"
